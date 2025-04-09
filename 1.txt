@@ -1,8 +1,0 @@
-
-Test for merge
-AWS_secret_key='AKIAIOSFODNN7EXAMPLE'
-AWS_access_key='wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
-4tt_line 
-5th lim
-sygaujysg
-jdhbckajsw
