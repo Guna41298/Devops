@@ -1,0 +1,6 @@
+- repo: https://github.com/Yelp/detect-secrets
+  rev: v1.4.0  # <- this uses urllib3 v1.x
+  hooks:
+    - id: detect-secrets
+      args: ["--baseline", ".secrets.baseline"]
+
